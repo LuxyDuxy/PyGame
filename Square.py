@@ -1,4 +1,4 @@
-import pygame, keyboard, sys
+import pygame, keyboard
 pygame.init()
 screen = pygame.display.set_mode((1000, 600))
 clock = pygame.time.Clock()
